@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@expo/cli": "^0.10.12"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.1.8",
+    "@react-navigation/stack": "^6.3.18",
+    "expo": "^49.0.13",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0"
+  }
+}
